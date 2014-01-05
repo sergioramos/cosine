@@ -1,0 +1,40 @@
+{
+  "name": "cosine",
+  "version": "0.0.1",
+  "description": "calculate the cosine distance between 2 arrays of strings",
+  "keywords": [
+    "cosine",
+    "distance",
+    "similarity"
+  ],
+  "homepage": "https://github.com/ramitos/cosine",
+  "bugs": {
+    "url": "http://github.com/ramitos/cosine/issues",
+    "email": "mail@sergioramos.me"
+  },
+  "license": {
+    "url": "https://raw.github.com/ramitos/cosine/master/license",
+    "type": "MIT"
+  }
+  "author": "Sérgio Ramos <mail@sergioramos.me> (http://sergioramos.me)",
+  "main": "src/cosine.js",
+  "directories": {
+    "lib": "src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ramitos/cosine.git"
+  },
+  "scripts": {
+    "test": "make test test-coveralls"
+  },
+  "devDependencies": {
+    "mocha-lcov-reporter": "0.0.x",
+    "jscoverage": "0.3.x",
+    "coveralls": "2.0.x",
+    "mocha": "1.10.x"
+  },
+  "engines": {
+    "node": ">=0.8"
+  }
+}
