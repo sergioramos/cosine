@@ -4,6 +4,7 @@
 [![Build Status](https://secure.travis-ci.org/ramitos/cosine.png)](http://travis-ci.org/ramitos/cosine)
 [![Dependency Status](https://gemnasium.com/ramitos/cosine.png)](https://gemnasium.com/ramitos/cosine)
 [![Coverage Status](https://coveralls.io/repos/ramitos/cosine/badge.png?branch=master)](https://coveralls.io/r/ramitos/cosine?branch=master)
+[![Code Climate](https://codeclimate.com/github/ramitos/cosine.png)](https://codeclimate.com/github/ramitos/cosine)
 
 ## install
 
