@@ -13,7 +13,7 @@ npm install [--save/--save-dev] cosine
 ```
 
 ```bash
-component install cosine
+component install ramitos/cosine
 ```
 
 ## api
